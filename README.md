@@ -1,0 +1,1 @@
+This is project that will display the images of my favorite foods and also make them accessible to people with disabilities. By the end of this mini-project i should demonstrate my little HTML skills
